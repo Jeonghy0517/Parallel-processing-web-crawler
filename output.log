@@ -1,0 +1,430 @@
+2023-03-10 16:32:24,420 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:39:32,049 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:50:41,760 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:50:42,244 - root - INFO -  
+        CPU 사용                :	 3 코어
+        프로그램 실행주기        :	 5 초
+    
+2023-03-10 16:51:52,648 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:51:53,154 - root - INFO -  
+        CPU 사용                :	 3 코어
+        프로그램 실행주기        :	 5 초
+    
+2023-03-10 16:51:58,161 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:51:58,481 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:51:58,493 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:51:58,493 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:51:59,747 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:51:59,748 - root - INFO - --- 1.5870025157928467 seconds ---
+2023-03-10 16:52:04,749 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:04,995 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:05,007 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:05,026 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:06,555 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:52:06,555 - root - INFO - --- 1.8059947490692139 seconds ---
+2023-03-10 16:52:11,556 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:11,850 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:11,855 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:11,859 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:13,106 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:52:13,106 - root - INFO - --- 1.5500011444091797 seconds ---
+2023-03-10 16:52:18,107 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:18,397 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:18,405 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:18,409 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:19,682 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:52:19,683 - root - INFO - --- 1.5757334232330322 seconds ---
+2023-03-10 16:52:24,683 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:24,973 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:24,973 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:24,979 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:26,205 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:52:26,206 - root - INFO - --- 1.5230000019073486 seconds ---
+2023-03-10 16:52:31,207 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:31,482 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:31,504 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:31,513 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:32,685 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:52:32,685 - root - INFO - --- 1.478003978729248 seconds ---
+2023-03-10 16:52:37,687 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:37,945 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:37,959 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:37,959 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:39,177 - root - INFO -  멀티 프로세스가 종료되었습니다. 
+2023-03-10 16:52:39,177 - root - INFO - --- 1.4900009632110596 seconds ---
+2023-03-10 16:52:44,178 - root - INFO -  멀티 프로세스가 시작됩니다. 
+2023-03-10 16:52:44,450 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:44,450 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:44,465 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:45,754 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:45,817 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:45,821 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:46,998 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:47,027 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:47,030 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:47,624 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:47,636 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:47,647 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:48,090 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:48,098 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
+2023-03-10 16:52:48,103 - root - INFO - 
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        OS                   :	 Windows
+        OS Version           :	 10.0.19044
+        Process information  :	 Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+        Process Architecture :	 AMD64
+        CPU Cores            :	 16   
+        RAM Size             :	 16(GB) 
+
